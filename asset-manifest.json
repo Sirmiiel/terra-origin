@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/terra-origin/static/css/main.6bf29cb3.css",
+    "main.js": "/terra-origin/static/js/main.b772dc3a.js",
+    "static/js/453.edd58ee3.chunk.js": "/terra-origin/static/js/453.edd58ee3.chunk.js",
+    "static/media/african-women.jpeg": "/terra-origin/static/media/african-women.ea0fbfa81d7e3d13257e.jpeg",
+    "static/media/lagos.jpeg": "/terra-origin/static/media/lagos.353e4c673461b4ace405.jpeg",
+    "static/media/hero-bg.jpeg": "/terra-origin/static/media/hero-bg.0e4b1726ab659d69a88e.jpeg",
+    "static/media/food.jpeg": "/terra-origin/static/media/food.d475970b90e06dfe2c68.jpeg",
+    "static/media/elephant.jpeg": "/terra-origin/static/media/elephant.64c100de7c42ed6f9bc6.jpeg",
+    "static/media/Pottery.jpeg": "/terra-origin/static/media/Pottery.fbdb80a8ffd8f25ea433.jpeg",
+    "static/media/user.svg": "/terra-origin/static/media/user.a958069ee2a4a97c1a390b7cf9153adc.svg",
+    "static/media/question-sign-circle.svg": "/terra-origin/static/media/question-sign-circle.403987cef0decdcbcc0b5aa8a897258b.svg",
+    "index.html": "/terra-origin/index.html",
+    "main.6bf29cb3.css.map": "/terra-origin/static/css/main.6bf29cb3.css.map",
+    "main.b772dc3a.js.map": "/terra-origin/static/js/main.b772dc3a.js.map",
+    "453.edd58ee3.chunk.js.map": "/terra-origin/static/js/453.edd58ee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bf29cb3.css",
+    "static/js/main.b772dc3a.js"
+  ]
+}
