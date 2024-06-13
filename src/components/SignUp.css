@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../assets/hero-bg.jpeg'); /* Replace 'your-image.jpg' with the path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Ensure the body takes up the full height of the viewport */
+  }
+  body:after {
+    display: flex;
+    width:100%;
+    content:'';
+    position:absolute;
+    top:0;
+    left:0;
+    background-color: #fff;
+    opacity: 0;
+    height:110%;
+  }
+
+  h1{
+    color: #fff;
+    font-size: 60px;
+    margin-bottom: 0%;
+  }
+
+  p{
+    color: #fff;
+    margin-top: -1%;
+    margin-bottom: 5%;
+  }
+
+
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    width: 850px;
+    margin: 2rem auto;
+    height: auto;
+    z-index: 1;
+  }
+  
+  .input {
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    width: 50%;
+    height: 60px;
+    box-sizing: border-box;
+  }
+  
+  .button {
+    background-color: var(--main-color);
+    border: none;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 1rem;
+  }
+  

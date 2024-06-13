@@ -1,0 +1,31 @@
+.testimonials {
+    padding: 2rem 1rem;
+    text-align: center;
+  }
+  
+  .testimonials h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .testimonial-list {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  
+  .testimonial-item {
+    background-color: #f9f9f9;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    flex: 1 1 calc(33% - 2rem);
+    margin: 1rem;
+    max-width: 300px;
+  }
+  
+  .testimonial-item p {
+    font-style: italic;
+  }
+  
